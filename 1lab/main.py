@@ -39,4 +39,4 @@ def main():
         print(f"'{word}': {freq} раз")
 
 if __name__ == "__main__":
-    pass # Ваш код здесь
+    main() # Ваш код здесь
